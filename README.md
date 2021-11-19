@@ -1,92 +1,47 @@
 # Título del Proyecto
-
-_Acá va un párrafo que describa lo que es el proyecto_
-
+App-UPP es una aplicación móvil que trata del envió de ubicación automático cada cierto tiempo funcionando también en segundo plano, además tiene un Login, Registro para la seguridad de del usuario, también tiene Atajos para hacer más rápido el uso, la razón por la que se envía la ubicación es en ayudar a personas en catástrofes y problemas similares, él envió automático sirve para localizar a las personas sin importar el estado en el que se encuentren, el registro sirve para identificar a la persona, cabe mencionar que el proyecto está en proceso de desarrollo, los creadores se han apoyado de internet y sus conocimientos como base para el desarrollo de funcionalidades.
 ## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+Mira este sitio para conocer como clonar este proyecto: https://desarrolloweb.com/articulos/importar-proyecto-desde-github-hacia-android-studio.html
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
+Android studio 
+Requisitos del sistema
+OS version: Windows: 10/8/7 (32- o 64-bit)
+OS X/macOS: Mac OS X 10.10 (Yosemite) o superior, hasta 10.13 (macOS High Sierra)
+Linux: GNOME o KDE desktop
+RAM: 4 GB RAM mínimo, 8 GB RAM recomendado más 1GB adicional para el emulador de Android
+Espacio de almacenamiento: 2 GB para Android Studio, 4 GB recomendados (500 MB para IDE y al menos 1.5 GB para Android SDK, imágenes de sistema de emulador y cachés)
+Java version: Java Development Kit (JDK) 8
+Resolución de pantalla: 1280x800 mínimo, 1440x900 recomendado
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+1.	Clonando este proyecto
+https://desarrolloweb.com/articulos/importar-proyecto-desde-github-hacia-android-studio.html
+2.	Copiar el código que se desea y pegarlo en un nuevo proyecto
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+Para ejecutar una prueba es necesario generar el apk.release o el apk.debug en Android studio:
+ https://openwebinars.net/blog/generar-apk-android-studio/
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Android Studio - Aplicación de desarrollo integrado oficial para la plataforma Android
+Java - lenguaje de programación y una plataforma informática
+Kotlin - lenguaje de programación pragmático 
 
 ## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+3.0
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Bryam Enrique Diaz Cruz** – *Login, registro, envió de ubicación, Atajos*
+* **Bryan Antonio Delgado Medina** – *Cuenta de usuario*
+* **Jacobo Eduardo Portillo Cerritos** – *Cuenta de usuario*
+* **Kevin Edenilson Fuentes Arriaza** – *SplashScreen, Atajos*
+* **Kenia Leticia Márquez Guevara** – *Permisos de la aplicación*
+* **Ludwig Rolando Hernández Paz** – *Permisos de la aplicación* 
 
 ## Licencia 📄
 
@@ -94,10 +49,6 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
 
 
 
