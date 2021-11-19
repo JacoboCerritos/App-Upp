@@ -1,5 +1,5 @@
 # App-Upp
-App-UPP es una aplicación movil que trata del envio de ubicación automatico cada cierto tiempo funcionando también en segundo plano, esta en proceso de desarrollo y ha sido creada por alumnos de la materia de ingeniera de software 2, quienes se han apoyado de internet como base para desarrollar muchas de las funcionalidades que contiene, la idea de este proyecto ha sido ayudar en catastrofes, desatres y otros problemas similares, con el envio de ubicación automatico se podra localizar a las personas sin importar  el estado que se encuentren.
+App-UPP es una aplicación movil que trata del envio de ubicación automatico cada cierto tiempo funcionando también en segundo plano, esta en proceso de desarrollo y ha sido creada por alumnos de la materia de ingeniera de software 2, quienes se han apoyado de internet como base para desarrollar muchas de las funcionalidades que contiene, la idea de este proyecto ha sido ayudar en catastrofes, desatres y otros problemas similares, con el envio de ubicación automatico poder localizar a las personas sin importar  el estado en el que se encuentren.
 
 ## Comenzando 🚀
 
