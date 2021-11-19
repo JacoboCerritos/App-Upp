@@ -4,6 +4,8 @@ App-UPP es una aplicación movil que trata del envio de ubicación automatico ca
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+Una opción seria 
+https://desarrolloweb.com/articulos/importar-proyecto-desde-github-hacia-android-studio.html
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
