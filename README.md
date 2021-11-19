@@ -21,12 +21,13 @@ Requisitos del sitema
 
 OS version: 
 Windows: 10/8/7 (32- o 64-bit)	
+
 OS X/macOS: Mac OS X 10.10 (Yosemite) o superior, hasta 10.13 ( macOS High Sierra)	
+
 Linux: GNOME o KDE desktop
 
 RAM:
-4 GB RAM mínimo, 8 GB RAM recomendado más 1GB adicional para
-el emulador de Android
+4 GB RAM mínimo, 8 GB RAM recomendado más 1GB adicional para el emulador de Android
 
 Espacio de almacenamiento:
 2 GB para Android Studio, 4 GB recomendados (500 MB para IDE y al menos 1.5 GB para Android SDK, imágenes de sistema de emulador y cachés)
@@ -39,25 +40,9 @@ Resolución de pantalla
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
 ## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+Para ejecutar una prueba es necesario generar el apk.release o el apk.debug ver el siguiente enlace.
+https://openwebinars.net/blog/generar-apk-android-studio/
 
 ### Analice las pruebas end-to-end 🔩
 
