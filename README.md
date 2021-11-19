@@ -1,4 +1,4 @@
-# Título del Proyecto
+# App-UPP
 App-UPP es una aplicación móvil que trata del envió de ubicación automático cada cierto tiempo funcionando también en segundo plano, además tiene un Login, Registro para la seguridad de del usuario, también tiene Atajos para hacer más rápido el uso, la razón por la que se envía la ubicación es en ayudar a personas en catástrofes y problemas similares, él envió automático sirve para localizar a las personas sin importar el estado en el que se encuentren, el registro sirve para identificar a la persona, cabe mencionar que el proyecto está en proceso de desarrollo, los creadores se han apoyado de internet y sus conocimientos como base para el desarrollo de funcionalidades.
 ## Comenzando 🚀
 Mira este sitio para conocer como clonar este proyecto: https://desarrolloweb.com/articulos/importar-proyecto-desde-github-hacia-android-studio.html
