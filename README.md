@@ -14,9 +14,28 @@ https://desarrolloweb.com/articulos/importar-proyecto-desde-github-hacia-android
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-```
-Da un ejemplo
-```
+(Software) Android studio
+(software)Java Development Kit (JDK) 7 o superior
+
+Requisitos del sitema
+
+OS version: 
+Windows: 10/8/7 (32- o 64-bit)	
+OS X/macOS: Mac OS X 10.10 (Yosemite) o superior, hasta 10.13 ( macOS High Sierra)	
+Linux: GNOME o KDE desktop
+
+RAM:
+4 GB RAM mínimo, 8 GB RAM recomendado más 1GB adicional para
+el emulador de Android
+
+Espacio de almacenamiento:
+2 GB para Android Studio, 4 GB recomendados (500 MB para IDE y al menos 1.5 GB para Android SDK, imágenes de sistema de emulador y cachés)
+
+Java version:
+Java Development Kit (JDK) 8
+
+Resolución de pantalla	
+1280x800 mínimo, 1440x900 recomendado
 
 ### Instalación 🔧
 
