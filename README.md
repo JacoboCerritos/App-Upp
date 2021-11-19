@@ -33,9 +33,9 @@ Para ejecutar una prueba es necesario generar el apk.release o el apk.debug en A
  https://openwebinars.net/blog/generar-apk-android-studio/
 
 ## Construido con 🛠️
-Android Studio - Aplicación de desarrollo integrado oficial para la plataforma Android
-Java - lenguaje de programación y una plataforma informática
-Kotlin - lenguaje de programación pragmático 
+* **Android Studio** - *Aplicación de desarrollo integrado oficial para la plataforma Android*
+* **Java** - *lenguaje de programación y una plataforma informática*
+* **Kotlin** - *lenguaje de programación pragmático* 
 
 ## Versionado 📌
 3.0
