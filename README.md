@@ -5,7 +5,7 @@ Mira este sitio para conocer como clonar este proyecto: https://desarrolloweb.co
 
 ### Pre-requisitos 📋
 
-Android studio 
+Android studio:
 * **Requisitos del sistema**
 * **OS version**: Windows: 10/8/7 (32- o 64-bit)
 
