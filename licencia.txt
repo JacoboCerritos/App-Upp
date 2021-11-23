@@ -1,0 +1,19 @@
+Licencia para el proyecto APPUPP
+
+Esta licencia aplica para el proyecto AppUPP móvil y el proyecto AppUPP WEB.
+
+Derechos de autor:
+El usuario adquiere los derechos de autor de cualquier obra derivada que se cree utilizando esta obra, el usuario podrá realizar modificaciones de cualquier archivo en forma de Código Fuente, o eliminación del contenido del Software.
+Representación:
+Cada Colaborador declara que cree que sus Contribuciones son su(s) creación(es) original(es) o que tiene los derechos suficientes para conceder los derechos de sus Contribuciones transmitidos por esta Licencia.
+Distribución:
+Toda distribución del Software amparado en forma de código fuente, incluyendo cualquier modificación que usted cree o a la que contribuya, debe realizarse bajo los términos de esta licencia. Debe informar a los destinatarios de que la Forma de Código Fuente del Software Cubierto se rige por los términos de esta Licencia, y cómo pueden obtener una copia de esta. Usted no puede intentar alterar o restringir los derechos de los destinatarios en el Formulario de Código Fuente.
+Formato ejecutable:
+Si distribuye el Software amparado en formato ejecutable, entonces dicho Software cubierto también debe estar disponible en forma de Código Fuente, Usted debe informar a los destinatarios de la Forma Ejecutable de cómo pueden obtener una copia de dicha Forma de Código Fuente por medios razonables de manera oportuna, a un cargo no mayor que el costo de distribución al destinatario; y Usted puede distribuir dicho Formulario ejecutable bajo los términos de esta Licencia, o sublicenciar lo bajo términos diferentes, siempre que la licencia para el Formulario ejecutable no intente limitar o alterar los derechos de los receptores en el Formulario de código fuente bajo esta Licencia.
+Noticias:
+El usuario no puede eliminar ni alterar el contenido de ningún aviso de licencia (incluidos los avisos de derechos de autor o limitaciones de responsabilidad) contenidos en el formulario de código fuente del software amparado, excepto que el usuario puede alterar cualquier aviso de licencia en la medida en que sea necesario para remediar inexactitudes fácticas conocidas.
+
+Si le resulta imposible cumplir con alguno de los términos de esta Licencia con respecto a una parte o la totalidad del Software amparado debido a una ley, orden judicial o reglamento, entonces deberá (a) cumplir con los términos de esta Licencia en la mayor medida posible. describir las limitaciones y el código al que afectan. Dicha descripción debe incluirse en un archivo de texto con todas las distribuciones del Software Cubierto bajo esta Licencia. Salvo en la medida en que lo prohíban las leyes o reglamentos, dicha descripción debe ser lo suficientemente detallada como para que un receptor con conocimientos ordinarios pueda entenderla.
+
+
+
