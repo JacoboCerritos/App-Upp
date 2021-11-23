@@ -50,7 +50,4 @@ Para ejecutar una prueba es necesario generar el apk.release o el apk.debug en A
 * **Ludwig Rolando Hernández Paz** – *Permisos de la aplicación* 
 
 ## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
+https://github.com/JacoboCerritos/App-Upp/blob/main/licencia.txt
